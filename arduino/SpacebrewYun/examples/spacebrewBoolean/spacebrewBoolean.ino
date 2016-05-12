@@ -23,7 +23,6 @@
  
  */
 
-#include <Bridge.h>
 #include <SpacebrewYun.h>
 
 // create a variable of type SpacebrewYun and initialize it with the constructor
